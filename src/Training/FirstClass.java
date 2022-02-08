@@ -9,6 +9,8 @@ public class FirstClass {
 		
 		System.out.println("Welcome to the world of JAVA programming");
 		
+		System.out.println("Chandrakala Shopping website for Makeup and Bridal Collections");
+		
 		System.out.println(x * y);
 		
 		
