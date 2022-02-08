@@ -13,6 +13,8 @@ public class FirstClass {
 		
 		System.out.println(x * y);
 		
+		System.out.println("Welcome Gayathri and Pallavi");
+		
 		
 	}
 
