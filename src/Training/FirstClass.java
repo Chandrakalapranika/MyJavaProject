@@ -21,6 +21,9 @@ public class FirstClass {
 		
 		System.out.println(a/b) ;
 		
+		System.out.println("every month new project") ;
+		
+		
 	
 
 	
