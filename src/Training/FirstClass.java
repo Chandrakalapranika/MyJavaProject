@@ -25,6 +25,11 @@ public class FirstClass {
 		
 		System.out.println("its very interesting") ;
 		
+		int X = 50 ;
+		int Y = 5 ;
+		
+		System.out.println(x/y);
+		
 		
 	
 
