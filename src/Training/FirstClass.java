@@ -23,6 +23,8 @@ public class FirstClass {
 		
 		System.out.println("every month new project") ;
 		
+		System.out.println("its very interesting") ;
+		
 		
 	
 
