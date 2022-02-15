@@ -28,7 +28,11 @@ public class FirstClass {
 		int X = 50 ;
 		int Y = 5 ;
 		
-		System.out.println(x/y);
+		System.out.println(X/Y);
+		System.out.println(X-Y) ;
+		
+		
+		
 		
 		
 	
